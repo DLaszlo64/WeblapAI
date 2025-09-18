@@ -26,11 +26,7 @@
   /* Links inside the dropdown */
   .dropdown-content button {
     color: black;
-<<<<<<< HEAD
     padding: 10px 17px;
-=======
-    padding: 10px 14.5px;
->>>>>>> 3d2f352ae33eb7bf4e48e90a9c34327e95582710
     text-decoration: none;
     display: block;
   }
@@ -43,4 +39,3 @@
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #000000;}
-
