@@ -1,4 +1,8 @@
 /* Dropdown Button */
+header{
+  color: #000000;
+  background-color: rgba(0, 0, 0, 0.8);
+}
 .dropbtn {
     background-color: #050e0b;
     color: rgb(255, 255, 255);
