@@ -7,7 +7,11 @@ header{
   left:0px;
   height: 40px;
   background-color: rgba(176, 190, 149, 0.830);
+  padding: ;
   
+}
+main{
+  background-color: blue;
 }
 .dropbtn {
     background-color:rgb(176, 190, 149);
