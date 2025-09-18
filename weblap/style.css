@@ -1,17 +1,39 @@
 /* Dropdown Button */
 header{
-
+  margin: auto;
   width: 100%;
   position: fixed ;
   top:0px ;
   left:0px;
   height: 40px;
   background-color: rgba(176, 190, 149, 0.830);
-  padding: ;
+
   
 }
 main{
+  background-image: url();
+  height: 200px;
+  margin-top: 50px;
+  position: relative;
+
+  
+}
+#t1{
   background-color: blue;
+  border-radius: 30px;
+  width: 60%;
+  float: left;
+  margin: 10px;
+}
+#t2{
+  background-color: blue;
+  border-radius: 30px;
+  width: 60%;
+  text-align: right;
+  float: right;
+  margin: 10px;
+
+
 }
 .dropbtn {
     background-color:rgb(176, 190, 149);
