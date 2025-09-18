@@ -11,22 +11,24 @@ header{
   
 }
 main{
-  background-image: url();
-  height: 200px;
+  background-image: url(/képek/R.jfif);
+  height:1000px;
   margin-top: 50px;
   position: relative;
+  background-size: cover;
 
   
 }
 #t1{
-  background-color: blue;
+  color: aliceblue;
+  background-color: rgba(195, 226, 183, 0.582);
   border-radius: 30px;
   width: 60%;
   float: left;
   margin: 10px;
 }
 #t2{
-  background-color: blue;
+  background-color: rgba(0, 0, 0, 0.060);
   border-radius: 30px;
   width: 60%;
   text-align: right;
