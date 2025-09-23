@@ -9,10 +9,10 @@ body{
 header{
   margin: auto;
   width: 100%;
-  position: relative;
-  top: -4% ;
+  position: fixed;
+  top: 0% ;
   left: 0px;
-  height: 4%;
+  height: 5.1%;
   background-color: rgba(176, 190, 149, 0.830);
   z-index: 1;
 
