@@ -1,4 +1,11 @@
 /* Dropdown Button */
+body{
+  background-image: url(/képek/R.jfif);
+  height:1000px;
+  margin-top: 50px;
+  position: relative;
+  background-size: cover;
+}
 header{
   margin: auto;
   width: 100%;
@@ -12,11 +19,7 @@ header{
   
 }
 main{
-  background-image: url(/képek/R.jfif);
-  height:1000px;
-  margin-top: 50px;
-  position: relative;
-  background-size: cover;
+  
 
   
 }
