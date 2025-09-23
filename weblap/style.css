@@ -9,17 +9,12 @@ body{
 header{
   margin: auto;
   width: 100%;
-  position: fixed ;
-  top:0px ;
-  left:0px;
-  height: 40px;
+  position: relative;
+  top: -4% ;
+  left: 0px;
+  height: 4%;
   background-color: rgba(176, 190, 149, 0.830);
   z-index: 1;
-
-  
-}
-main{
-  
 
   
 }
@@ -32,13 +27,12 @@ main{
   margin: 10px;
 }
 #t2{
-  background-color: rgba(0, 0, 0, 0.060);
+  color: aliceblue;
+  background-color: rgba(195, 226, 183, 0.582);
   border-radius: 30px;
   width: 60%;
-  text-align: right;
   float: right;
   margin: 10px;
-
 
 }
 .dropbtn {
