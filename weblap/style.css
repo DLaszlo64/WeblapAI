@@ -3,9 +3,9 @@ header{
   margin: auto;
   width: 100%;
   position: fixed ;
-  top:0px ;
+  top: 0px ;
   left:0px;
-  height: 40px;
+  height: 5.1%;
   background-color: rgba(176, 190, 149, 1);
   z-index: 1;
 
@@ -22,7 +22,14 @@ main{
   position: relative;
 
 }
-
+#t0{
+  color: aliceblue;
+  background-color: darkolivegreen;
+  border-radius: 30px;
+  width: 60%;
+  float: left;
+  margin: 10px;
+}
 #t1{
   color: aliceblue;
   background-color: rgba(195, 226, 183, 0.582);
@@ -41,7 +48,7 @@ main{
 
 }
 .dropbtn {
-    background-color:rgb(99, 116, 66);
+    background-color:darkolivegreen;
     color: rgb(255, 255, 255);
     padding: 10px;
     font-size: 16px;
@@ -53,6 +60,7 @@ main{
   .dropdown {
     position: relative;
     display: inline-block;
+    
 
     
   }
@@ -77,16 +85,15 @@ main{
   }
   
   /* Change color of dropdown links on hover */
-  .dropdown-content button:hover {background-color: #ff0000;}
-  
+  .dropdown-content button:hover {background-color: darkolivegreen;}
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color:rgb(130, 141, 109);}
+  .dropdown:hover .dropbtn {background-color:darkolivegreen;}
 
 button{
   width: 90px;
-  background-color: blueviolet;
+  background-color: rgb(130, 141, 109);
 }
 
