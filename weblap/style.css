@@ -17,7 +17,7 @@ body{
 }
 main{
 
-  height:1000px;
+  height:800px;
   margin-top: 50px;
   position: relative;
 
@@ -26,26 +26,30 @@ main{
   color: aliceblue;
   background-color: darkolivegreen;
   border-radius: 30px;
-  width: 60%;
-  float: left;
+  width: 30%;
+  text-align: center;
   margin: 10px;
+  margin-left: 35%;
 }
 #t1{
-  color: aliceblue;
-  background-color: rgba(195, 226, 183, 0.582);
+  color: rgb(0, 0, 0);
+  background-color: rgba(195, 226, 183, 0.9);
   border-radius: 30px;
   width: 60%;
   float: left;
   margin: 10px;
 }
 #t2{
-  color: aliceblue;
-  background-color: rgba(195, 226, 183, 0.582);
+  color: rgb(0, 0, 0);
+  background-color: rgba(195, 226, 183, 0.9);
   border-radius: 30px;
   width: 60%;
   float: right;
   margin: 10px;
 
+}
+h2{
+  text-align: center;
 }
 .dropbtn {
     background-color:darkolivegreen;
