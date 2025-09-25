@@ -19,7 +19,10 @@ body{
   background-image: url(/képek/R.jfif);
   
 }
-
+body{
+  background-image: url(/WeblapAI/WeblapAI/képek/R.jfif);
+  background-size: cover;
+}
 main{
 
   height:800px;
