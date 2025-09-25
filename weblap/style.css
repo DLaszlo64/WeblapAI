@@ -6,32 +6,23 @@ header{
   top:0px ;
   left:0px;
   height: 40px;
-  background-color: rgba(176, 190, 149, 0.830);
-z-index: 1;
+  background-color: rgba(176, 190, 149, 1);
+  z-index: 1;
 
   
 }
+body{
+  background-image: url(/képek/R.jfif);
+  background-size: cover;
+}
 main{
-  background-image: url(/WeblapAI/képek/R.jfif);
+
   height:1000px;
   margin-top: 50px;
   position: relative;
-  background-size: cover;
+
 }
-header{
-  margin: auto;
-  width: 100%;
-  position: fixed;
-  top: 0% ;
-  left: 0px;
-  height: 5.1%;
-  background-color: rgba(176, 190, 149, 0.830);
-  z-index: 1;
 
-
-
-  
-}
 #t1{
   color: aliceblue;
   background-color: rgba(195, 226, 183, 0.582);
@@ -50,7 +41,7 @@ header{
 
 }
 .dropbtn {
-    background-color:rgb(176, 190, 149);
+    background-color:rgb(99, 116, 66);
     color: rgb(255, 255, 255);
     padding: 10px;
     font-size: 16px;
