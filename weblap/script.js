@@ -1,5 +1,6 @@
 gemini.onclick = function(){
     t0.innerHTML = `<h1>Gemini</h1>`
+    h4Cim.innerHTML = `<h4></h4>`
     li1.innerHTML = "Kép- és hangfelismerés:Képes képek, hangok és videók elemzésére"
     li2.innerHTML = "Természetes nyelvi feldolgozás:A Gemini AL képes szövegeket értelmezni, fordítani és generálni."
     li3.innerHTML = `Prediktív analitika és adatfeldolgozás:képes nagy mennyiségű adat elemzésére és előrejelzések készítésére különféle területeken.<br> PL pénzügyi elemzésben.`
