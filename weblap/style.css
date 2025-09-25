@@ -47,7 +47,7 @@ main{
   margin: 10px;
   float: left;
   color: rgb(0, 0, 0);
-  background-color:  rgba(180, 200, 150, 1);
+  background-color:  rgba(180, 200, 150, 0.9);
 
 }
 
@@ -58,9 +58,20 @@ main{
   margin: 10px;
   float: right;
   color: rgb(0, 0, 0);
-  /*background-color: rgba(195, 226, 183, 0.9);*/
-  background-color: rgba(180, 200, 150, 1);
 
+  /*background-color: rgba(195, 226, 183, 0.9);*/
+  background-color: rgba(180, 200, 150, 0.9);
+
+}
+
+#cim{
+
+  margin: 3%;
+
+}
+
+#elonye{
+  margin: 1%;
 }
 
 h2{
