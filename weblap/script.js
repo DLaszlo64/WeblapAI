@@ -24,3 +24,16 @@ chatgpt.onclick = function(){
     li5.innerHTML = `<li>Hajlamos néha hallucinációkra, azaz pontatlan információk generálására (ezért érdemes megkérni arra, ne találjon ki magától információkat, ha konkrét szövegre van szükséged) </li>`
     
 }
+
+copilot.onclick = function(){
+    foCim.innerHTML = "Copilot"
+    cim.innerHTML = `<h4>A copilot egy társalgási, AI-alapú asszisztens.</h4>`
+    li1.innerHTML = "Programozás és forráskód írása,"
+    li2.innerHTML = "Rendszerfeladatok kezelése és automatizálás"
+    li3.innerHTML = "Képgenerálás és vizuális tartalom"
+    elonye.innerHTML = `<li>Növeli a produktivitást</li><li>Kényelmes, gyors hozzáférés a rendszerfunkciókhoz</li> <li>Széleskörű funkcionalitás</li> <li>Fejlett keresési lehetőségek </li> <li>Intuitív és felhasználóbarát élmény </li>`
+    li4.innerHTML = "A Copilot folyamatosan figyeli a felhasználói interakciókat és alkalmazásokat, hogy jobban tudjon segíteni. Ez azonban adatvédelmi aggályokat vethet fel, mivel egyes felhasználók nem biztos, hogy szeretnék, hogy a rendszer ilyen mértékben gyűjtsön adatokat róluk."
+    li5.style.display = "block"
+    li5.innerHTML = `<li>Nem mindig pontos vagy releváns válaszokat ad.</li>`
+    
+}
