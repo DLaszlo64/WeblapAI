@@ -28,12 +28,25 @@ chatgpt.onclick = function(){
 copilot.onclick = function(){
     foCim.innerHTML = "Copilot"
     cim.innerHTML = `<h4>A copilot egy társalgási, AI-alapú asszisztens.</h4>`
-    li1.innerHTML = "Programozás és forráskód írása,"
+    li1.innerHTML = "Programozás és forráskód írása"
     li2.innerHTML = "Rendszerfeladatok kezelése és automatizálás"
     li3.innerHTML = "Képgenerálás és vizuális tartalom"
     elonye.innerHTML = `<li>Növeli a produktivitást</li><li>Kényelmes, gyors hozzáférés a rendszerfunkciókhoz</li> <li>Széleskörű funkcionalitás</li> <li>Fejlett keresési lehetőségek </li> <li>Intuitív és felhasználóbarát élmény </li>`
     li4.innerHTML = "A Copilot folyamatosan figyeli a felhasználói interakciókat és alkalmazásokat, hogy jobban tudjon segíteni. Ez azonban adatvédelmi aggályokat vethet fel, mivel egyes felhasználók nem biztos, hogy szeretnék, hogy a rendszer ilyen mértékben gyűjtsön adatokat róluk."
     li5.style.display = "block"
     li5.innerHTML = `<li>Nem mindig pontos vagy releváns válaszokat ad.</li>`
+    
+}
+
+deepseek.onclick = function(){
+    foCim.innerHTML = "Deepseek"
+    cim.innerHTML = `<h4>A DeepSeek egy olyan technológia, amely különböző kontextusokban használható, például a keresési rendszerekben.</h4>`
+    li1.innerHTML = "Mesterséges Intelligencia és Gépi Tanulás"
+    li2.innerHTML = "Orvosi Képalkotás"
+    li3.innerHTML = "Pénzügyi Szektor"
+    elonye.innerHTML = `<li>Gyors és pontos keresés: képes gyorsan és pontosan feldolgozni és visszaadni a releváns adatokat, ami javítja a felhasználói élményt és növeli a hatékonyságot.</li><li>Nagy mennyiségű adat kezelése</li> <li>Relevánsabb eredmények</li> <li>Skálázhatóság </li> <li>Automatizálás: A rendszer képes az automatizált adatgyűjtésre és -elemzésre, amely csökkenti az emberi munkaerő szükségességét és növeli a hatékonyságot.</li>`
+    li4.innerHTML = "A DeepSeek és hasonló rendszerek hátrányai közé tartozik, hogy magas költségűek lehetnek a fejlesztésük és fenntartásuk, valamint komplexek a beállításuk és használatuk. "
+    li5.style.display = "block"
+    li5.innerHTML = `<li>Ezen kívül, adatvédelmi aggályok is felmerülhetnek, mivel érzékeny adatokat dolgozhatnak fel, és a rendszerek túl bonyolult eredményeket adhatnak, amelyeket nehéz értelmezni. Továbbá, az ilyen rendszerek függnek a technológiai infrastruktúrától, és ha az meghibásodik, komoly problémák keletkezhetnek.</li>`
     
 }
