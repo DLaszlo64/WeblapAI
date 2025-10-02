@@ -56,7 +56,7 @@ deepseek.onclick = function(){
 
 grok.onclick = function(){
     foCim.innerHTML = "Grok"
-    cim.innerHTML = `<h4>A Grok egy mesterséges intelligencia alapú rendszer, amelyet különböző alkalmazásokban használuk</h4>`
+    cim.innerHTML = `<h4>A Grok egy mesterséges intelligencia alapú rendszer, amelyet különböző alkalmazásokban használuk.</h4>`
     li1.innerHTML = "Növekvő pontosság"
     li2.innerHTML = "Skálázhatóság"
     li3.style.display = "none"
