@@ -28,13 +28,15 @@ main{
 
 }
 
-footer{
+#footer{
   
   position:absolute ;
   width: 100%;
-  bottom: -10%;
-  height: 10%;
-  padding: 0.1%;              
+  bottom: -630%;
+  height: 100%;
+  padding: 0.1%;
+  margin: 5% ; 
+             
   background-color: rgba(180, 200, 150, 1);
 
 }
@@ -50,7 +52,7 @@ footer{
 #tiny{
   position: relative;
   left: 0%;
-  width: 5%;
+  width: 43%;
 }
 
 
