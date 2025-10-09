@@ -16,8 +16,7 @@ header{
   z-index: 1;                                
   margin: auto;
   position: fixed ;
-  /*background-color: rgba(180, 200, 150, 1);*/
-  background-color: rgb(127, 169, 204);
+  background-color: rgba(180, 200, 150, 1);
 }
 
 main{
